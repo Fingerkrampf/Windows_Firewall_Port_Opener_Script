@@ -15,7 +15,7 @@ Ideal für Anwendungen wie den **Pi Network Node**, die bestimmte Ports für die
 
 ## 🚀 Schnellstart
 
-Rechtslklick auf die Datei und "Als Administratir ausführen" auswählen:
+Rechtslklick auf die Datei und "Als Administrator ausführen" auswählen:
 
    ⚠️ Erfordert Administratorrechte, da Änderungen an der Windows-Firewall vorgenommen werden.
 
